@@ -1,0 +1,5305 @@
+{
+  "data": {
+    "trans_0": {
+      "depth": 725,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 41
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 46
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 115
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 86
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 56
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 42
+        }
+      },
+      "gates_quality": 112.76328474190062,
+      "id": "trans_0",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 41
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 202
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 46
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 201
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 56
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 184
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 42
+        }
+      },
+      "qubits_quality": 68.78057037980773
+    },
+    "trans_1": {
+      "depth": 733,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 40
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 14
+        },
+        "cx1_3": {
+          "error_rate": 0.0074,
+          "source": "q_1",
+          "target": "q_3",
+          "times": 118
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 137
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 41
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 44
+        }
+      },
+      "gates_quality": 113.11113025005024,
+      "id": "trans_1",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 40
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 172
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 14
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 255
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 41
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 222
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 44
+        }
+      },
+      "qubits_quality": 71.29157167155212
+    },
+    "trans_10": {
+      "depth": 743,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 14
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 112
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 182
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 77
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 120.30655893536122,
+      "id": "trans_10",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 14
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 308
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 112
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 259
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 97
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 67.40843687324718
+    },
+    "trans_11": {
+      "depth": 745,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 54
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 45
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 128
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 115
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 48
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 17
+        }
+      },
+      "gates_quality": 116.43541696466885,
+      "id": "trans_11",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 54
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 227
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 45
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 243
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 48
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 180
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 17
+        }
+      },
+      "qubits_quality": 67.58720326809868
+    },
+    "trans_12": {
+      "depth": 778,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 25
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 88
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 141
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 114
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 55
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 17
+        }
+      },
+      "gates_quality": 115.99093161807349,
+      "id": "trans_12",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 25
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 254
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 88
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 255
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 55
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 186
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 17
+        }
+      },
+      "qubits_quality": 68.0393081639438
+    },
+    "trans_13": {
+      "depth": 697,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 54
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 109
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 108
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 66
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 14
+        }
+      },
+      "gates_quality": 117.55102040816328,
+      "id": "trans_13",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 54
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 271
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 109
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 174
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 89
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 14
+        }
+      },
+      "qubits_quality": 65.42480690595185
+    },
+    "trans_14": {
+      "depth": 766,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 72
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 26
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 158
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 121
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 39
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 12
+        }
+      },
+      "gates_quality": 118.80638445523941,
+      "id": "trans_14",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 72
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 256
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 26
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 279
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 39
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 172
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 12
+        }
+      },
+      "qubits_quality": 67.05626145675028
+    },
+    "trans_15": {
+      "depth": 767,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 33
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 30
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 144
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 117
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 66
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 38
+        }
+      },
+      "gates_quality": 113.99957383336886,
+      "id": "trans_15",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 33
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 207
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 30
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 261
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 66
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 221
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 38
+        }
+      },
+      "qubits_quality": 69.72103441254328
+    },
+    "trans_16": {
+      "depth": 776,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 28
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 96
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 132
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 113
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 56
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 13
+        }
+      },
+      "gates_quality": 116.01419717116066,
+      "id": "trans_16",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 28
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 256
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 96
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 245
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 56
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 182
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 13
+        }
+      },
+      "qubits_quality": 67.55402008112651
+    },
+    "trans_17": {
+      "depth": 752,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 46
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 90
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 157
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 83
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 7
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 31
+        }
+      },
+      "gates_quality": 117.38020981003685,
+      "id": "trans_17",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 46
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 293
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 90
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 240
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 7
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 121
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 31
+        }
+      },
+      "qubits_quality": 67.66143134979653
+    },
+    "trans_18": {
+      "depth": 753,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 105
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 44
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 182
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 63
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 122.05548512633037,
+      "id": "trans_18",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 105
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 331
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 44
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 245
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 83
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 64.18455384758494
+    },
+    "trans_19": {
+      "depth": 712,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 93
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 61
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 138
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 10
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 62
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 120.23469813075124,
+      "id": "trans_19",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 93
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 292
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 61
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 200
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 10
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 83
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 64.15191172696946
+    },
+    "trans_2": {
+      "depth": 730,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 9
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 70
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 112
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 115
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 45
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 41
+        }
+      },
+      "gates_quality": 112.41432709127929,
+      "id": "trans_2",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 9
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 191
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 70
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 227
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 45
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 201
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 41
+        }
+      },
+      "qubits_quality": 70.9598588043626
+    },
+    "trans_20": {
+      "depth": 724,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 25
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 13
+        },
+        "cx1_3": {
+          "error_rate": 0.0074,
+          "source": "q_1",
+          "target": "q_3",
+          "times": 90
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 136
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 48
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 74
+        }
+      },
+      "gates_quality": 108.26274751781007,
+      "id": "trans_20",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 25
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 128
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 13
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 226
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 48
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 258
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 74
+        }
+      },
+      "qubits_quality": 74.22006441378647
+    },
+    "trans_21": {
+      "depth": 757,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 9
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 63
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 122
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 125
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 17
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 82
+        }
+      },
+      "gates_quality": 109.72568578553616,
+      "id": "trans_21",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 9
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 194
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 63
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 247
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 17
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 224
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 82
+        }
+      },
+      "qubits_quality": 74.19437862207904
+    },
+    "trans_22": {
+      "depth": 785,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 74
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 42
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 176
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 120
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 15
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 19
+        }
+      },
+      "gates_quality": 119.40138676946967,
+      "id": "trans_22",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 74
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 292
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 42
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 296
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 15
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 154
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 19
+        }
+      },
+      "qubits_quality": 67.3685482531003
+    },
+    "trans_23": {
+      "depth": 727,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 83
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 57
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 148
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 10
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 81
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 9
+        }
+      },
+      "gates_quality": 120.5268389662028,
+      "id": "trans_23",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 83
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 288
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 57
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 229
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 10
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 100
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 9
+        }
+      },
+      "qubits_quality": 65.14275160968074
+    },
+    "trans_24": {
+      "depth": 732,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 9
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 78
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 158
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 111
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 26
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 12
+        }
+      },
+      "gates_quality": 118.46061334936861,
+      "id": "trans_24",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 9
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 245
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 78
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 269
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 26
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 149
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 12
+        }
+      },
+      "qubits_quality": 69.06404199935143
+    },
+    "trans_25": {
+      "depth": 731,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 46
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 118
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 152
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 57
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 119.62013757837705,
+      "id": "trans_25",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 46
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 316
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 118
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 209
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 77
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 65.33720147299645
+    },
+    "trans_26": {
+      "depth": 697,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 73
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 48
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 136
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 10
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 81
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 120.00668560922612,
+      "id": "trans_26",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 73
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 257
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 48
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 217
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 10
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 102
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 65.73887566379784
+    },
+    "trans_27": {
+      "depth": 780,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 74
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 26
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 145
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 124
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 54
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 18
+        }
+      },
+      "gates_quality": 117.00095510983765,
+      "id": "trans_27",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 74
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 245
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 26
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 269
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 54
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 196
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 18
+        }
+      },
+      "qubits_quality": 67.20051200390098
+    },
+    "trans_28": {
+      "depth": 755,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 9
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 12
+        },
+        "cx1_3": {
+          "error_rate": 0.0074,
+          "source": "q_1",
+          "target": "q_3",
+          "times": 122
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 175
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 17
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 81
+        }
+      },
+      "gates_quality": 109.80599181734196,
+      "id": "trans_28",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 9
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 143
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 12
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 297
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 17
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 273
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 81
+        }
+      },
+      "qubits_quality": 76.85415261830644
+    },
+    "trans_29": {
+      "depth": 752,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 71
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 143
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 120
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 10
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 59
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 118.07655011123155,
+      "id": "trans_29",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 71
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 334
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 143
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 179
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 10
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 80
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 64.12589741405348
+    },
+    "trans_3": {
+      "depth": 737,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 61
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 118
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 132
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 7
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 69
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 118.83789674838016,
+      "id": "trans_3",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 61
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 311
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 118
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 201
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 7
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 87
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 65.08000098110554
+    },
+    "trans_30": {
+      "depth": 728,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 85
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 103
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 134
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 12
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 44
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 119.46807530481253,
+      "id": "trans_30",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 85
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 322
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 103
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 178
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 12
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 67
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 63.49154534177711
+    },
+    "trans_31": {
+      "depth": 692,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 21
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 14
+        },
+        "cx1_3": {
+          "error_rate": 0.0074,
+          "source": "q_1",
+          "target": "q_3",
+          "times": 98
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 144
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 25
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 52
+        }
+      },
+      "gates_quality": 111.32425547973205,
+      "id": "trans_31",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 21
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 133
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 14
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 242
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 25
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 221
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 52
+        }
+      },
+      "qubits_quality": 74.11827517979961
+    },
+    "trans_32": {
+      "depth": 749,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 21
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 77
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 120
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 22
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 122
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 48
+        }
+      },
+      "gates_quality": 112.95388175657061,
+      "id": "trans_32",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 21
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 218
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 77
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 242
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 22
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 192
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 48
+        }
+      },
+      "qubits_quality": 71.05780812658689
+    },
+    "trans_33": {
+      "depth": 753,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 9
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 12
+        },
+        "cx1_3": {
+          "error_rate": 0.0074,
+          "source": "q_1",
+          "target": "q_3",
+          "times": 99
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 159
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 41
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 94
+        }
+      },
+      "gates_quality": 107.02099059042497,
+      "id": "trans_33",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 9
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 120
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 12
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 258
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 41
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 294
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 94
+        }
+      },
+      "qubits_quality": 76.90378667558305
+    },
+    "trans_34": {
+      "depth": 741,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 42
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 119
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 149
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 71
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 7
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 15
+        }
+      },
+      "gates_quality": 118.79845532529552,
+      "id": "trans_34",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 42
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 310
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 119
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 220
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 7
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 93
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 15
+        }
+      },
+      "qubits_quality": 66.16808005845121
+    },
+    "trans_35": {
+      "depth": 710,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 59
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 65
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 163
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 60
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 11
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 14
+        }
+      },
+      "gates_quality": 120.56002074150895,
+      "id": "trans_35",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 59
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 287
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 65
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 223
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 11
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 85
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 14
+        }
+      },
+      "qubits_quality": 65.69826482405405
+    },
+    "trans_36": {
+      "depth": 726,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 75
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 48
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 125
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 82
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 48
+        }
+      },
+      "gates_quality": 114.71765228990662,
+      "id": "trans_36",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 75
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 248
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 48
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 207
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 139
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 48
+        }
+      },
+      "qubits_quality": 67.99732930386197
+    },
+    "trans_37": {
+      "depth": 736,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 121
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 70
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 141
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 7
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 48
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 120.6206812947024,
+      "id": "trans_37",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 121
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 332
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 70
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 189
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 7
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 66
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 62.729027936482915
+    },
+    "trans_38": {
+      "depth": 723,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 89
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 65
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 141
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 70
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 120.12855315298448,
+      "id": "trans_38",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 89
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 295
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 65
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 211
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 90
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 64.57023060796647
+    },
+    "trans_39": {
+      "depth": 755,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 9
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 48
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 101
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 154
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 67
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 38
+        }
+      },
+      "gates_quality": 111.60774027781495,
+      "id": "trans_39",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 9
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 158
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 48
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 255
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 67
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 259
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 38
+        }
+      },
+      "qubits_quality": 71.79999311271051
+    },
+    "trans_4": {
+      "depth": 751,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 60
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 69
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 181
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 25
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 66
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 120.57360257535848,
+      "id": "trans_4",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 60
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 310
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 69
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 247
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 25
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 102
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 65.55498981670063
+    },
+    "trans_40": {
+      "depth": 733,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 9
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 83
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 148
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 106
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 34
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 14
+        }
+      },
+      "gates_quality": 117.45066475883861,
+      "id": "trans_40",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 9
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 240
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 83
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 254
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 34
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 154
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 14
+        }
+      },
+      "qubits_quality": 68.84801887204577
+    },
+    "trans_41": {
+      "depth": 742,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 63
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 27
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 143
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 106
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 46
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 18
+        }
+      },
+      "gates_quality": 117.37636162404614,
+      "id": "trans_41",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 63
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 233
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 27
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 249
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 46
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 170
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 18
+        }
+      },
+      "qubits_quality": 67.27655170111183
+    },
+    "trans_42": {
+      "depth": 733,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 23
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 16
+        },
+        "cx1_3": {
+          "error_rate": 0.0074,
+          "source": "q_1",
+          "target": "q_3",
+          "times": 92
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 153
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 33
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 78
+        }
+      },
+      "gates_quality": 108.42712050507824,
+      "id": "trans_42",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 23
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 131
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 16
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 245
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 33
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 264
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 78
+        }
+      },
+      "qubits_quality": 75.2409615604404
+    },
+    "trans_43": {
+      "depth": 714,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 22
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 14
+        },
+        "cx1_3": {
+          "error_rate": 0.0074,
+          "source": "q_1",
+          "target": "q_3",
+          "times": 104
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 140
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 55
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 41
+        }
+      },
+      "gates_quality": 111.97474612108756,
+      "id": "trans_43",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 22
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 140
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 14
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 244
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 55
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 236
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 41
+        }
+      },
+      "qubits_quality": 72.17444717444718
+    },
+    "trans_44": {
+      "depth": 746,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 35
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 96
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 122
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 104
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 42
+        }
+      },
+      "gates_quality": 114.29531893436425,
+      "id": "trans_44",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 35
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 253
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 96
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 226
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 155
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 42
+        }
+      },
+      "qubits_quality": 69.34353091140854
+    },
+    "trans_45": {
+      "depth": 739,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 34
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 45
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 116
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 36
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 122
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 47
+        }
+      },
+      "gates_quality": 112.72686281140795,
+      "id": "trans_45",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 34
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 195
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 45
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 238
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 36
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 205
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 47
+        }
+      },
+      "qubits_quality": 70.78643731860976
+    },
+    "trans_46": {
+      "depth": 709,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 53
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 117
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 133
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 48
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 119.14319663444553,
+      "id": "trans_46",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 53
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 303
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 117
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 181
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 68
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 64.68147424945082
+    },
+    "trans_47": {
+      "depth": 730,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 71
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 134
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 126
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 7
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 44
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 9
+        }
+      },
+      "gates_quality": 119.08387646951331,
+      "id": "trans_47",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 71
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 331
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 134
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 170
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 7
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 60
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 9
+        }
+      },
+      "qubits_quality": 63.61240360524518
+    },
+    "trans_48": {
+      "depth": 721,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 33
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 73
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 152
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 7
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 106
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 119.61797400970723,
+      "id": "trans_48",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 33
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 258
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 73
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 258
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 7
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 124
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 68.07994938558737
+    },
+    "trans_49": {
+      "depth": 752,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 50
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 94
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 162
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 10
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 87
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 119.79859945598704,
+      "id": "trans_49",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 50
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 306
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 94
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 249
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 10
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 108
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 66.38232370201712
+    },
+    "trans_5": {
+      "depth": 736,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 33
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 74
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 120
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 114
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 44
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 13
+        }
+      },
+      "gates_quality": 116.25189858628345,
+      "id": "trans_5",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 33
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 227
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 74
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 234
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 44
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 171
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 13
+        }
+      },
+      "qubits_quality": 67.90592129396609
+    },
+    "trans_50": {
+      "depth": 771,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 125
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 93
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 140
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 54
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 7
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 13
+        }
+      },
+      "gates_quality": 119.74388114311056,
+      "id": "trans_50",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 125
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 358
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 93
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 194
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 7
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 74
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 13
+        }
+      },
+      "qubits_quality": 62.85693499690809
+    },
+    "trans_51": {
+      "depth": 743,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 71
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 113
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 159
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 42
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 120.29583865506281,
+      "id": "trans_51",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 71
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 343
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 113
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 201
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 62
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 64.02554698368535
+    },
+    "trans_52": {
+      "depth": 753,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 27
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 84
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 164
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 115
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 15
+        }
+      },
+      "gates_quality": 119.01681759379042,
+      "id": "trans_52",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 27
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 275
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 84
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 279
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 139
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 15
+        }
+      },
+      "qubits_quality": 68.56518246784972
+    },
+    "trans_53": {
+      "depth": 725,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 41
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 28
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 112
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 97
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 50
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 59
+        }
+      },
+      "gates_quality": 111.03141586572946,
+      "id": "trans_53",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 41
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 181
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 28
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 209
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 50
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 206
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 59
+        }
+      },
+      "qubits_quality": 70.62043795620438
+    },
+    "trans_54": {
+      "depth": 712,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 60
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 71
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 127
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 90
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 11
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 15
+        }
+      },
+      "gates_quality": 118.35443037974683,
+      "id": "trans_54",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 60
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 258
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 71
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 217
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 11
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 116
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 15
+        }
+      },
+      "qubits_quality": 66.53975483480706
+    },
+    "trans_55": {
+      "depth": 760,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 22
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 125
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 144
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 95
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 19
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 17
+        }
+      },
+      "gates_quality": 117.28412217559267,
+      "id": "trans_55",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 22
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 291
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 125
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 239
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 19
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 131
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 17
+        }
+      },
+      "qubits_quality": 67.58704634997918
+    },
+    "trans_56": {
+      "depth": 722,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 28
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 69
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 85
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 92
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 51
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 58
+        }
+      },
+      "gates_quality": 109.55690952258358,
+      "id": "trans_56",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 28
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 182
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 69
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 177
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 51
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 201
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 58
+        }
+      },
+      "qubits_quality": 70.38565088349611
+    },
+    "trans_57": {
+      "depth": 720,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 63
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 96
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 149
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 54
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 11
+        }
+      },
+      "gates_quality": 120.05782890187943,
+      "id": "trans_57",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 63
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 308
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 96
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 203
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 74
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 11
+        }
+      },
+      "qubits_quality": 64.7803488303077
+    },
+    "trans_58": {
+      "depth": 739,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 47
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 69
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 174
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 10
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 88
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 14
+        }
+      },
+      "gates_quality": 120.27285782671136,
+      "id": "trans_58",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 47
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 290
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 69
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 262
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 10
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 112
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 14
+        }
+      },
+      "qubits_quality": 67.05979498386063
+    },
+    "trans_59": {
+      "depth": 740,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 68
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 75
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 171
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 67
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 12
+        }
+      },
+      "gates_quality": 120.82957619477007,
+      "id": "trans_59",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 68
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 314
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 75
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 238
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 88
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 12
+        }
+      },
+      "qubits_quality": 65.37329452132764
+    },
+    "trans_6": {
+      "depth": 772,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 64
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 57
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 163
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 114
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 9
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 26
+        }
+      },
+      "gates_quality": 118.23816935638021,
+      "id": "trans_6",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 64
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 284
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 57
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 277
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 9
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 149
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 26
+        }
+      },
+      "qubits_quality": 67.88376668678619
+    },
+    "trans_7": {
+      "depth": 765,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 44
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 31
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 104
+        },
+        "cx5_3": {
+          "error_rate": 0.0089,
+          "source": "q_5",
+          "target": "q_3",
+          "times": 109
+        },
+        "cx5_4": {
+          "error_rate": 0.0098,
+          "source": "q_5",
+          "target": "q_4",
+          "times": 60
+        },
+        "cx5_6": {
+          "error_rate": 0.0121,
+          "source": "q_5",
+          "target": "q_6",
+          "times": 78
+        }
+      },
+      "gates_quality": 108.87900628737923,
+      "id": "trans_7",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 44
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 179
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 31
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 213
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 60
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 247
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 78
+        }
+      },
+      "qubits_quality": 71.47890868821102
+    },
+    "trans_8": {
+      "depth": 786,
+      "gates": {
+        "cx1_0": {
+          "error_rate": 0.0083,
+          "source": "q_1",
+          "target": "q_0",
+          "times": 41
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 97
+        },
+        "cx3_1": {
+          "error_rate": 0.0074,
+          "source": "q_3",
+          "target": "q_1",
+          "times": 178
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 106
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 11
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 15
+        }
+      },
+      "gates_quality": 119.35526841614492,
+      "id": "trans_8",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 41
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 316
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 97
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 284
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 11
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 132
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 15
+        }
+      },
+      "qubits_quality": 67.42773718233335
+    },
+    "trans_9": {
+      "depth": 726,
+      "gates": {
+        "cx0_1": {
+          "error_rate": 0.0083,
+          "source": "q_0",
+          "target": "q_1",
+          "times": 30
+        },
+        "cx1_2": {
+          "error_rate": 0.0089,
+          "source": "q_1",
+          "target": "q_2",
+          "times": 14
+        },
+        "cx1_3": {
+          "error_rate": 0.0074,
+          "source": "q_1",
+          "target": "q_3",
+          "times": 101
+        },
+        "cx3_5": {
+          "error_rate": 0.0089,
+          "source": "q_3",
+          "target": "q_5",
+          "times": 152
+        },
+        "cx4_5": {
+          "error_rate": 0.0098,
+          "source": "q_4",
+          "target": "q_5",
+          "times": 45
+        },
+        "cx6_5": {
+          "error_rate": 0.0121,
+          "source": "q_6",
+          "target": "q_5",
+          "times": 46
+        }
+      },
+      "gates_quality": 111.770467246644,
+      "id": "trans_9",
+      "qubits": {
+        "q_0": {
+          "T1": 197.33,
+          "T2": 87.3,
+          "error_rate": 0.02,
+          "times": 30
+        },
+        "q_1": {
+          "T1": 35.75,
+          "T2": 43.25,
+          "error_rate": 0.0178,
+          "times": 145
+        },
+        "q_2": {
+          "T1": 128.63,
+          "T2": 89.76,
+          "error_rate": 0.0147,
+          "times": 14
+        },
+        "q_3": {
+          "T1": 174.72,
+          "T2": 311.73,
+          "error_rate": 0.0121,
+          "times": 253
+        },
+        "q_4": {
+          "T1": 176.82,
+          "T2": 88.26,
+          "error_rate": 0.0195,
+          "times": 45
+        },
+        "q_5": {
+          "T1": 222.18,
+          "T2": 216.1,
+          "error_rate": 0.0126,
+          "times": 243
+        },
+        "q_6": {
+          "T1": 52.17,
+          "T2": 151.13,
+          "error_rate": 0.0069,
+          "times": 46
+        }
+      },
+      "qubits_quality": 72.49084522830881
+    }
+  },
+  "ref_value": {
+    "gate_qual_avg": 116.423264,
+    "gate_times_avg": {
+      "cx1_0": 48.266667,
+      "cx1_2": 67.233333,
+      "cx3_1": 135.95,
+      "cx3_5": 97.2,
+      "cx4_5": 25.116667,
+      "cx6_5": 27.983333
+    },
+    "qubit_qual_avg": 68.094067,
+    "qubit_times_avg": {
+      "q_0": 48.266667,
+      "q_1": 251.45,
+      "q_2": 67.233333,
+      "q_3": 233.15,
+      "q_4": 25.116667,
+      "q_5": 150.3,
+      "q_6": 27.983333
+    }
+  }
+}
